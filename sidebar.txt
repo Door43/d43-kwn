@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kwn:home|Door43 (kwn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kwn|d43-kwn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kwn/archive/master.zip|d43-kwn.zip]]
+
+**Recent Changes**
+{{changes>ns = kwn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kwn|Ethnologue data]]
+
